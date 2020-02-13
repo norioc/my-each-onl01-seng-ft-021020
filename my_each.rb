@@ -5,5 +5,6 @@ def my_each(collection) #block
     i += 1
   end
   
+  collection
   
 end
